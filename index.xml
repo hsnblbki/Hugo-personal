@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>صفحتي الشخصية</title>
+    <link>/</link>
+    <description>Recent content on صفحتي الشخصية</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ar</language>
+    <lastBuildDate>Sun, 29 May 2022 11:19:31 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
